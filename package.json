@@ -1,5 +1,13 @@
 {
-  "dependencies": {
-    "readline-sync": "^1.4.10"
-  }
+  "name": "banco_do_rafa",
+  "version": "1.0.0",
+  "description": "Um banco para estudar JavaScript POO",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node index.js"
+  },
+  "author": "Rafael e alura",
+  "license": "ISC",
+  "type": "module"
 }
